@@ -234,7 +234,7 @@
                                 <!--<version>${project.version}</version>-->
                             <!--</dependency>-->
                         <!--</dependencies>sample-->
-                        <!--<configuration>demo---->
+                        <!--<configuration>demosampl-->
                             <!--<configLocation>custom-checkstyle.xml</configLocation>-->
                         <!--</configuration>-->
                     <!--</plugin>-->
